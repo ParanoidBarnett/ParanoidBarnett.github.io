@@ -116,7 +116,7 @@ share:
 
 # Analytics
 google_analytics: ## Your Google Analytics tracking id, e.g. UA-42025684-2
-baidu_analytics: ## Your Baidu Analytics tracking id, e.g. 1006843030519956000
+baidu_analytics: 3b192e38525e227b980f80f859faac7a ## Your Baidu Analytics tracking id, e.g. 1006843030519956000
 
 # Miscellaneous
 show_category_count: true ## If you want to show the count of categories in the sidebar widget please set the value to true.
